@@ -7,8 +7,7 @@
 🖥️ Desktop customization addict – if my workspace isn’t customized, am I even coding?  
 
 
-```md
-## 🔧 My Tech Arsenal  
+ ## 🔧 My Tech Arsenal  
 - **Languages:** JavaScript, Python, C#, More Syntax Errors  
 - **Frameworks:** React, Node.js, Express, Spaghetti Code  
 - **Tools:** Figma, VS Code (with 500 extensions), Neovim (trying, failing), Blender  
