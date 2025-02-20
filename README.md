@@ -8,8 +8,8 @@
 
 
  ## 🔧 My Tech Arsenal  
-- **Languages:** JavaScript, Python, C#, More Syntax Errors  
-- **Frameworks:** React, Node.js, Express, Spaghetti Code  
-- **Tools:** Figma, VS Code (with 500 extensions), Neovim (trying, failing), Blender  
-- **OS:** Windows modded to oblivion, Linux (because I like pain), macOS (only for design)  
+- **Languages:** JavaScript, Python, C/C++, More Syntax Errors  
+- **Frameworks:** React, Node.js, Express, Flask, Django, NextJs,  Spaghetti Code  
+- **Tools:** Figma, VS Code (with 500 extensions), Neovim (trying, failing), IbisPaint  
+- **OS:** Windows (modded to oblivion), Linux (because I like pain), macOS (just kidding ! i dont hab one)  
 
