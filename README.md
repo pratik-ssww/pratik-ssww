@@ -8,7 +8,9 @@
   
 ## 🎮 GitHub Stats
 ![Patrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrix&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=pratik-ssww&theme=tokyonight&hide_border=true)
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pratik-ssww&theme=highcontrast&hide_border=true&border_radius=10)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrix&layout=compact&theme=tokyonight)
