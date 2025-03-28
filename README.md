@@ -3,7 +3,7 @@
  
 ## 🌟 About Me
 - 🤖 Full-stack developer (MERN) | Linux enthusiast | Anime & cat lover
-- 🌐 Open-source contributor | Teaching Node.js & MongoDB
+- 🌐 Open-source contributor | Node.js & Express
 - 🔄 Building a **Beverages Management System**
  
 ## 🎮 GitHub Stats
