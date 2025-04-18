@@ -4,7 +4,7 @@
 ## 🌟 About Me
 - 🤖 Full-stack developer (MERN) | Linux enthusiast | Anime & cat lover
 - 🌐 Open-source contributor | Node.js & Express
-- 🔄 Building a **Beverages Management System**
+- 🔄 Building a **customizable desktop**
  
 ## 🎮 GitHub Stats
 ![Patrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratik-ssww&show_icons=true&theme=tokyonight)
