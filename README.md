@@ -11,7 +11,7 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=pratik-ssww&theme=highcontrast&hide_border=true&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shoto87&theme=highcontrast&hide_border=true&border_radius=10)
 
 
 
