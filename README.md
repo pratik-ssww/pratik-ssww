@@ -7,7 +7,7 @@
 - 🔄 Building a **customizable desktop**
  
 ## 🎮 GitHub Stats
-![Patrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratik-ssww&show_icons=true&theme=tokyonight)
+![Patrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoto87&show_icons=true&theme=tokyonight)
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-ssww&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoto87&layout=compact&theme=tokyonight)
 
 ## 🎉 Fun Facts
 - ☕ I run on caffeine & code.
